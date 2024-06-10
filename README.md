@@ -1,1 +1,1 @@
-#Curso completo de APIs com Nodejs, Express + MongoDB, SQL
+Curso completo de APIs com Nodejs, Express + MongoDB, SQL
