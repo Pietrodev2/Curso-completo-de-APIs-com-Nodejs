@@ -1,0 +1,7 @@
+{
+  "name": "modulo02",
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
